@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TimecycModifiers>
+<Mod caption="Default" name="DEFAULT" />
+<Mod caption="White Out" name="WhiteOut" />
+<Mod caption="Mild Red Mist" name="REDMIST_blend" />
+<Mod caption="Depth Of Field" name="WATER_silty" />
+<Mod caption="Film" name="Bikers" />
+<Mod caption="Blue Action" name="CopsSPLASH" />
+<Mod caption="Wobbly" name="drug_wobbly" />
+<Mod caption="Drunk" name="Drunk" />
+<Mod caption="Sepia" name="dying" />
+<Mod caption="Obfuscate View" name="Hicksbar" />
+<Mod caption="Black and White" name="hud_def_desatcrunch" />
+<Mod caption="Green Filmic" name="hud_def_Franklin" />
+<Mod caption="Warm" name="INT_streetlighting" />
+<Mod caption="Dark Blue" name="introblue" />
+<Mod caption="Day For Night" name="METRO_Tunnels" />
+<Mod caption="Stoned" name="michealspliff" />
+<Mod caption="Colourful" name="MP_Killstreak" />
+<Mod caption="Hazy Sky" name="NeutralColorCode" />
+<Mod caption="Black Sky" name="New_sewers" />
+<Mod caption="Yellow Sky" name="phone_cam1" />
+<Mod caption="Red" name="TrevorColorCode" />
+<Mod caption="Underwater" name="Underwater" />
+<Mod caption="Water Port" name="WATER_port" />
+<Mod caption="PPFilter" name="PPFilter" />
+<Mod caption="BikerFilter" name="BikerFilter" />
+<Mod caption="LostTimeLight" name="LostTimeLight" />
+<Mod caption="LostTimeDark" name="LostTimeDark" />
+<Mod caption="LostTimeFlash" name="LostTimeFlash" />
+<Mod caption="DeadlineNeon01" name="DeadlineNeon01" />
+<Mod caption="BikerFormFlash" name="BikerFormFlash" />
+<Mod caption="BikerForm01" name="BikerForm01" />
+<Mod caption="mp_imx_intwaremed" name="mp_imx_intwaremed" />
+<Mod caption="mp_imx_intwaremed_office" name="mp_imx_intwaremed_office" />
+<Mod caption="mp_imx_mod_int_01" name="mp_imx_mod_int_01" />
+<Mod caption="IMpExt_Interior_02" name="IMpExt_Interior_02" />
+<Mod caption="ImpExp_Interior_01" name="ImpExp_Interior_01" />
+<Mod caption="impexp_interior_01_lift" name="impexp_interior_01_lift" />
+<Mod caption="IMpExt_Interior_02_stair_cage" name="IMpExt_Interior_02_stair_cage" />
+</TimecycModifiers>

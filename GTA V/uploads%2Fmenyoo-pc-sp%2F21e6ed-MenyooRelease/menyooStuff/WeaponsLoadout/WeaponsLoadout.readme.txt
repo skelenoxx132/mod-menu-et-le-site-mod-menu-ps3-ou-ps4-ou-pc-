@@ -1,0 +1,3 @@
+/menyooStuff/WeaponsLoadout
+
+Add custom/saved weapons loadout xml files here.
